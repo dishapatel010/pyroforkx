@@ -38,13 +38,13 @@ if len(argv) > 1 and argv[1] in ["bdist_wheel", "install", "develop"]:
     errors_compiler.start()
 
 setup(
-    name="PyroFork",
+    name="PyroForkx",
     version=version,
     description="Elegant, modern and asynchronous Telegram MTProto API framework in Python for users and bots",
     long_description=readme,
     long_description_content_type="text/markdown",
-    url="https://github.com/Mayuri-Chan/pyrofork",
-    download_url="https://github.com/Mayuri-Chan/pyrofork/releases/latest",
+    url="https://github.com/dishapatel010/pyroforkx",
+    download_url="https://github.com/dishapatel010/pyroforkx/releases/latest",
     author="wulan17",
     author_email="mayuri@mayuri.my.id",
     license="LGPLv3",
